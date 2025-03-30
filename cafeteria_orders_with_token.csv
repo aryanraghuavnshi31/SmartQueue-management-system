@@ -1,0 +1,251 @@
+Order ID,Item,Quantity,Order Time,Preparation Time (mins),Customer ID,Status,Queue Status,Token Number
+1,Pizza,3,12:44:31,45,1656,Completed,Picked Up,68
+2,Farmhouse Pizza,2,11:26:55,36,2960,Completed,Picked Up,476
+3,Pizza,3,13:25:13,45,2749,Completed,Picked Up,47
+4,Pizza,2,12:16:07,30,2126,In Progress,Being Prepared,14
+5,Garlic Bread,3,12:43:16,24,2442,Pending,In Queue,63
+6,Choco Lava Cake,1,15:46:10,6,1083,Completed,Picked Up,392
+7,Burger,1,16:03:49,10,1152,Pending,Picked Up,151
+8,Chicken Supreme Pizza,3,14:56:13,57,2333,Completed,Picked Up,469
+9,Pizza,1,12:56:50,15,2711,Pending,Picked Up,326
+10,Coffee,1,14:14:28,5,2388,Completed,Picked Up,314
+11,Coffee,1,10:27:32,5,2072,Pending,Picked Up,445
+12,Coffee,2,16:48:46,10,1484,Pending,Picked Up,416
+13,White Pasta,2,10:05:24,24,1605,Completed,Picked Up,279
+14,White Pasta,2,15:04:25,24,2995,Pending,Picked Up,131
+15,Burger,2,12:53:24,20,1401,Pending,Picked Up,422
+16,Garlic Bread,3,12:25:37,24,2768,Pending,Picked Up,39
+17,Garlic Bread,1,14:44:50,8,2945,In Progress,Being Prepared,456
+18,Farmhouse Pizza,1,16:56:34,18,2750,Pending,Picked Up,186
+19,White Pasta,3,14:38:51,36,1339,In Progress,Being Prepared,482
+20,Coffee,2,14:14:39,10,1271,Completed,Picked Up,62
+21,Stuffed Garlic Bread,1,11:23:52,10,2333,Completed,Picked Up,322
+22,Peppy Paneer Pizza,2,10:22:42,34,2531,In Progress,Being Prepared,214
+23,Burger,1,13:58:24,10,2952,In Progress,Being Prepared,431
+24,Coffee,3,14:16:40,15,2203,Pending,Picked Up,170
+25,Burger,2,16:31:41,20,1447,Completed,Picked Up,152
+26,Burger,3,11:28:30,30,1561,In Progress,Being Prepared,172
+27,Spicy Wings,1,14:46:29,12,1927,In Progress,Being Prepared,92
+28,Pizza,3,14:41:14,45,2434,Completed,Picked Up,365
+29,Coffee,2,15:57:21,10,1046,Completed,Picked Up,249
+30,Burger,2,12:24:02,20,1039,In Progress,Being Prepared,368
+31,Garlic Bread,3,13:12:39,24,2094,Pending,Picked Up,162
+32,Garlic Bread,3,13:07:42,24,1808,Completed,Picked Up,439
+33,Pizza,3,16:08:58,45,1388,In Progress,Being Prepared,74
+34,Pizza,3,13:04:14,45,2838,Completed,Picked Up,364
+35,Coffee,3,10:24:13,15,1337,Completed,Picked Up,292
+36,Choco Lava Cake,3,12:12:22,18,1964,Completed,Picked Up,425
+37,Tandoori Paneer Pizza,3,11:57:48,51,2718,Pending,Picked Up,171
+38,Tandoori Paneer Pizza,2,12:23:06,34,2970,In Progress,Being Prepared,285
+39,Pizza,2,10:24:39,30,1074,In Progress,Being Prepared,234
+40,Red Pasta,3,16:05:59,42,1031,In Progress,Being Prepared,227
+41,Garlic Bread,1,10:47:40,8,1651,Completed,Picked Up,335
+42,Garlic Bread,2,11:33:02,16,1613,In Progress,Being Prepared,492
+43,Coffee,3,13:06:15,15,1946,Pending,Picked Up,395
+44,Stuffed Garlic Bread,1,16:24:35,10,2387,Pending,Picked Up,94
+45,Burger,2,14:12:19,20,2014,Completed,Picked Up,44
+46,Garlic Bread,3,15:02:47,24,2967,Completed,Picked Up,27
+47,Veg Extravaganza Pizza,2,13:20:27,40,2075,In Progress,Being Prepared,487
+48,Pizza,3,15:27:16,45,1025,Pending,Picked Up,414
+49,Pizza,3,14:01:58,45,1160,Completed,Picked Up,158
+50,Garlic Bread,3,10:55:32,24,2875,Completed,Picked Up,3
+51,Garlic Bread,1,15:32:56,8,1060,Completed,Picked Up,353
+52,Veggie Supreme Pizza,2,14:23:32,36,1353,Pending,Picked Up,88
+53,Garlic Bread,2,14:55:49,16,1616,Pending,Picked Up,480
+54,Pizza,1,10:30:55,15,1922,In Progress,Being Prepared,428
+55,Pizza,1,14:10:48,15,2034,Pending,Picked Up,276
+56,Pizza,3,12:51:57,45,2658,In Progress,Being Prepared,140
+57,Burger,1,15:07:05,10,1750,Pending,In Queue,223
+58,Cheese Garlic Bread,3,15:08:54,27,1097,Pending,In Queue,311
+59,Garlic Bread,2,13:50:17,16,1139,In Progress,Being Prepared,406
+60,Coffee,2,10:11:13,10,1403,In Progress,Being Prepared,379
+61,Pizza,3,11:53:29,45,2532,Completed,Picked Up,334
+62,Pizza,3,10:21:34,45,2173,In Progress,Being Prepared,133
+63,Garlic Bread,2,13:09:22,16,1112,Pending,Picked Up,255
+64,Veg Extravaganza Pizza,1,13:36:37,20,1711,Pending,Picked Up,245
+65,Veg Extravaganza Pizza,1,14:00:28,20,1521,Completed,Picked Up,82
+66,Cheese Garlic Bread,2,16:55:53,18,2418,In Progress,Being Prepared,40
+67,Garlic Bread,1,14:53:53,8,1387,In Progress,Being Prepared,169
+68,Garlic Bread,3,16:36:32,24,2336,In Progress,Being Prepared,360
+69,Farmhouse Pizza,1,11:33:00,18,2476,Completed,Picked Up,247
+70,Garlic Bread,3,16:00:07,24,1805,In Progress,Being Prepared,448
+71,Burger,1,15:49:30,10,2089,Pending,Picked Up,141
+72,Pizza,2,13:07:17,30,1086,Pending,Picked Up,362
+73,Burger,1,15:03:11,10,1946,Pending,Picked Up,139
+74,Pizza,1,11:48:40,15,1282,Pending,Picked Up,112
+75,Pizza,2,11:09:17,30,1606,Completed,Picked Up,163
+76,Burger,3,11:07:57,30,2733,Completed,Picked Up,303
+77,Coffee,2,15:20:00,10,1657,Completed,Picked Up,351
+78,Spicy Wings,1,14:21:25,12,2038,In Progress,Being Prepared,211
+79,Veggie Supreme Pizza,3,12:07:42,54,2198,In Progress,Being Prepared,339
+80,Coffee,2,15:03:11,10,1514,Pending,Picked Up,142
+81,Burger,1,13:31:16,10,1261,Completed,Picked Up,235
+82,Garlic Bread,3,15:41:18,24,2688,In Progress,Being Prepared,254
+83,Tandoori Paneer Pizza,2,13:19:01,34,1191,Pending,In Queue,288
+84,Burger,2,11:43:32,20,1841,Pending,Picked Up,376
+85,Choco Chip,2,10:40:37,14,2276,Pending,Picked Up,175
+86,Burger,3,16:23:27,30,2729,Completed,Picked Up,350
+87,Garlic Bread,2,15:04:09,16,1580,Completed,Picked Up,106
+88,Peppy Paneer Pizza,3,11:53:40,51,1050,Pending,Picked Up,264
+89,Choco Lava Cake,2,15:44:37,12,2535,Pending,Picked Up,423
+90,Burger,3,16:32:05,30,2396,Pending,Picked Up,66
+91,Garlic Bread,2,15:05:54,16,1561,Pending,Picked Up,167
+92,Choco Lava Cake,3,16:03:12,18,2344,In Progress,Being Prepared,57
+93,Coffee,2,14:42:22,10,2940,Pending,Picked Up,273
+94,Peppy Paneer Pizza,1,14:52:33,17,1193,Completed,Picked Up,356
+95,Coffee,2,11:25:35,10,2465,In Progress,Being Prepared,411
+96,Pizza,1,10:32:58,15,1182,Completed,Picked Up,316
+97,Cheese Garlic Bread,2,15:43:11,18,1208,In Progress,Being Prepared,218
+98,Garlic Bread,3,15:39:47,24,1123,Pending,Picked Up,194
+99,Garlic Bread,3,12:20:06,24,2259,Completed,Picked Up,497
+100,Pizza,3,14:25:37,45,1939,Pending,In Queue,145
+101,Choco Lava Cake,2,10:55:25,12,1060,Pending,Picked Up,225
+102,Burger,2,15:50:37,20,1533,In Progress,Being Prepared,374
+103,Coffee,2,14:32:36,10,1969,Completed,Picked Up,341
+104,White Pasta,1,13:37:09,12,2361,Completed,Picked Up,305
+105,Veggie Supreme Pizza,1,12:55:33,18,2045,Pending,Picked Up,174
+106,Burger,2,11:36:03,20,2876,Pending,Picked Up,500
+107,Pizza,3,16:47:23,45,2453,Completed,Picked Up,183
+108,Burger,3,13:35:41,30,1884,Pending,Picked Up,72
+109,Spicy Wings,3,12:24:29,36,2828,In Progress,Being Prepared,403
+110,Burger,2,15:10:46,20,2944,Completed,Picked Up,477
+111,Spicy Wings,1,14:48:39,12,2202,Pending,Picked Up,496
+112,Coffee,3,11:09:22,15,1848,In Progress,Being Prepared,61
+113,Spicy Wings,2,15:23:19,24,1115,Pending,Picked Up,90
+114,White Pasta,1,15:28:30,12,2260,In Progress,Being Prepared,209
+115,Garlic Bread,3,12:14:40,24,1620,Pending,Picked Up,381
+116,Peppy Paneer Pizza,2,11:42:36,34,1726,In Progress,Being Prepared,455
+117,Burger,1,10:16:16,10,1429,In Progress,Being Prepared,310
+118,Stuffed Garlic Bread,1,14:08:37,10,2845,In Progress,Being Prepared,394
+119,Red Pasta,3,12:07:18,42,2503,In Progress,Being Prepared,221
+120,Coffee,2,12:53:01,10,2885,Pending,Picked Up,95
+121,Burger,1,13:39:57,10,1168,Pending,Picked Up,387
+122,Garlic Bread,2,16:06:10,16,2264,In Progress,Being Prepared,124
+123,Garlic Bread,1,11:25:27,8,2936,Pending,Picked Up,474
+124,Farmhouse Pizza,3,15:59:47,54,1443,Pending,Picked Up,367
+125,Tandoori Paneer Pizza,3,16:06:37,51,2659,Completed,Picked Up,250
+126,Farmhouse Pizza,2,11:32:10,36,1277,Completed,Picked Up,19
+127,Pizza,2,12:59:41,30,1763,Completed,Picked Up,188
+128,Coffee,2,12:20:49,10,2657,In Progress,Being Prepared,313
+129,Veg Extravaganza Pizza,1,14:59:17,20,2185,In Progress,Being Prepared,67
+130,Tandoori Paneer Pizza,1,15:06:53,17,1783,In Progress,Being Prepared,253
+131,Pizza,2,13:25:26,30,2471,Completed,Picked Up,347
+132,Peppy Paneer Pizza,2,10:26:02,34,1656,Pending,Picked Up,280
+133,Garlic Bread,3,11:04:30,24,2518,In Progress,Being Prepared,472
+134,Garlic Bread,3,14:52:30,24,1327,Pending,Picked Up,102
+135,Margherita Pizza,1,16:41:29,16,1616,Pending,Picked Up,137
+136,White Pasta,1,16:08:18,12,2709,Pending,Picked Up,363
+137,White Pasta,2,15:31:13,24,2732,In Progress,Being Prepared,229
+138,Burger,3,11:21:19,30,2443,In Progress,Being Prepared,185
+139,Garlic Bread,3,11:02:31,24,1241,In Progress,Being Prepared,390
+140,Coffee,2,15:49:49,10,2175,Pending,Picked Up,34
+141,Veggie Supreme Pizza,1,14:01:30,18,2709,Completed,Picked Up,391
+142,Garlic Bread,3,10:12:38,24,2495,Completed,Picked Up,467
+143,Veg Extravaganza Pizza,2,16:40:59,40,1350,Completed,Picked Up,129
+144,Margherita Pizza,2,15:10:45,32,1371,In Progress,Being Prepared,393
+145,Cheese Garlic Bread,2,11:34:38,18,2116,In Progress,Being Prepared,81
+146,Veg Extravaganza Pizza,3,11:53:26,60,2671,Pending,Picked Up,462
+147,Pizza,3,16:02:57,45,1002,Pending,In Queue,272
+148,Pizza,1,11:02:54,15,2033,Pending,Picked Up,252
+149,Choco Chip,2,15:54:52,14,1281,In Progress,Being Prepared,275
+150,Tandoori Paneer Pizza,1,15:01:52,17,1595,Pending,In Queue,76
+151,Pizza,2,10:51:14,30,1489,Completed,Picked Up,483
+152,Coffee,1,16:51:57,5,2162,Pending,Picked Up,200
+153,Choco Lava Cake,3,11:18:52,18,1915,Pending,Picked Up,283
+154,Pizza,3,14:16:32,45,2986,In Progress,Being Prepared,438
+155,Coffee,2,10:13:07,10,2873,Completed,Picked Up,236
+156,White Pasta,2,11:58:25,24,1877,Completed,Picked Up,32
+157,Coffee,2,10:36:51,10,2790,Completed,Picked Up,130
+158,Tandoori Paneer Pizza,1,10:03:43,17,1714,In Progress,Being Prepared,366
+159,Garlic Bread,1,13:58:10,8,1988,In Progress,Being Prepared,168
+160,Garlic Bread,3,10:22:17,24,2328,Completed,Picked Up,266
+161,Coffee,1,11:42:07,5,2956,Pending,In Queue,5
+162,Spicy Wings,1,11:40:59,12,1085,Completed,Picked Up,407
+163,Red Pasta,2,10:24:32,28,1603,In Progress,Being Prepared,258
+164,Pizza,2,14:27:30,30,1800,In Progress,Being Prepared,138
+165,Coffee,1,16:56:25,5,1474,Completed,Picked Up,490
+166,Peppy Paneer Pizza,2,15:39:12,34,2761,Pending,Picked Up,382
+167,Garlic Bread,3,13:48:28,24,1563,In Progress,Being Prepared,60
+168,Farmhouse Pizza,2,15:02:22,36,2109,In Progress,Being Prepared,331
+169,Cheese Garlic Bread,3,11:26:04,27,2819,In Progress,Being Prepared,50
+170,Veg Extravaganza Pizza,1,10:34:14,20,2126,Pending,In Queue,354
+171,Coffee,2,12:10:25,10,1290,In Progress,Being Prepared,20
+172,Garlic Bread,1,13:03:08,8,2168,Pending,Picked Up,45
+173,Pizza,2,14:40:26,30,2233,In Progress,Being Prepared,122
+174,Burger,2,15:43:13,20,2188,Pending,Picked Up,51
+175,Garlic Bread,1,10:57:07,8,1902,In Progress,Being Prepared,301
+176,Burger,2,13:17:18,20,1255,Completed,Picked Up,242
+177,Peppy Paneer Pizza,3,12:45:10,51,1769,Completed,Picked Up,144
+178,Stuffed Garlic Bread,3,11:20:28,30,1327,In Progress,Being Prepared,437
+179,Spicy Wings,2,10:36:19,24,2423,In Progress,Being Prepared,192
+180,Choco Lava Cake,2,13:28:25,12,1094,Completed,Picked Up,136
+181,Pizza,1,13:10:43,15,2439,Completed,Picked Up,165
+182,Pizza,1,15:39:12,15,1997,Completed,Picked Up,101
+183,Chicken Supreme Pizza,1,13:00:33,19,2210,Pending,In Queue,127
+184,Garlic Bread,2,13:49:31,16,1783,Pending,Picked Up,323
+185,Garlic Bread,1,16:16:53,8,2815,In Progress,Being Prepared,116
+186,Garlic Bread,1,13:32:55,8,1007,Completed,Picked Up,451
+187,Red Pasta,2,10:47:55,28,1872,In Progress,Being Prepared,161
+188,Burger,2,16:45:36,20,2651,In Progress,Being Prepared,385
+189,Spicy Wings,2,11:35:38,24,1073,In Progress,Being Prepared,182
+190,Pizza,1,10:25:45,15,2773,Pending,Picked Up,97
+191,Spicy Wings,3,16:48:00,36,1277,In Progress,Being Prepared,59
+192,Pizza,3,12:30:12,45,1096,In Progress,Being Prepared,294
+193,Pizza,1,14:39:16,15,1840,Completed,Picked Up,400
+194,Coffee,3,11:54:14,15,2299,In Progress,Being Prepared,111
+195,Pizza,2,13:08:47,30,1384,Completed,Picked Up,361
+196,White Pasta,3,13:50:57,36,1977,Pending,Picked Up,267
+197,Burger,3,16:26:44,30,1504,Completed,Picked Up,210
+198,Chicken Supreme Pizza,3,11:02:54,57,2359,Completed,Picked Up,87
+199,Tandoori Paneer Pizza,1,12:15:33,17,1477,Completed,Picked Up,77
+200,Pizza,1,16:03:32,15,1730,Completed,Picked Up,24
+201,Chicken Supreme Pizza,2,13:30:01,38,1425,In Progress,Being Prepared,349
+202,Coffee,3,16:54:54,15,2089,In Progress,Being Prepared,11
+203,Pizza,2,10:34:14,30,1725,Pending,Picked Up,119
+204,Coffee,1,11:30:40,5,2171,Completed,Picked Up,435
+205,Stuffed Garlic Bread,3,10:13:35,30,2983,Completed,Picked Up,203
+206,Garlic Bread,1,14:02:11,8,1910,Pending,In Queue,271
+207,Coffee,2,12:35:33,10,2250,Completed,Picked Up,217
+208,Peppy Paneer Pizza,3,12:29:08,51,2431,Pending,Picked Up,177
+209,Burger,1,11:33:53,10,2481,Completed,Picked Up,401
+210,Pizza,1,11:00:11,15,2085,In Progress,Being Prepared,486
+211,Tandoori Paneer Pizza,3,15:28:26,51,2826,In Progress,Being Prepared,118
+212,Pizza,3,10:54:42,45,1047,Pending,Picked Up,373
+213,Choco Lava Cake,3,14:04:54,18,1099,In Progress,Being Prepared,493
+214,Coffee,1,10:42:42,5,2202,Completed,Picked Up,417
+215,Stuffed Garlic Bread,3,14:58:50,30,1202,In Progress,Being Prepared,25
+216,Garlic Bread,3,12:55:19,24,2983,In Progress,Being Prepared,419
+217,Coffee,1,10:30:22,5,2920,Completed,Picked Up,219
+218,Burger,2,12:00:18,20,1347,In Progress,Being Prepared,284
+219,Red Pasta,1,11:23:27,14,1160,In Progress,Being Prepared,485
+220,Margherita Pizza,1,14:01:47,16,1589,In Progress,Being Prepared,113
+221,White Pasta,1,14:33:03,12,1085,Completed,Picked Up,372
+222,Pizza,3,16:06:51,45,2070,Completed,Picked Up,378
+223,Coffee,3,11:04:10,15,2276,Completed,Picked Up,352
+224,Veggie Supreme Pizza,2,13:44:12,36,2054,In Progress,Being Prepared,222
+225,Spicy Wings,1,16:39:41,12,1747,Pending,Picked Up,459
+226,Pizza,2,15:47:26,30,1132,Pending,Picked Up,1
+227,Choco Chip,1,13:59:15,7,2885,In Progress,Being Prepared,429
+228,Burger,2,15:40:12,20,1891,In Progress,Being Prepared,263
+229,Burger,2,12:39:21,20,1289,Pending,In Queue,9
+230,Garlic Bread,2,15:10:14,16,2703,Completed,Picked Up,53
+231,Garlic Bread,2,14:05:48,16,2228,Completed,Picked Up,309
+232,Pizza,1,15:10:21,15,1083,Pending,Picked Up,103
+233,Garlic Bread,3,12:38:05,24,2868,In Progress,Being Prepared,208
+234,Garlic Bread,2,12:56:35,16,1250,In Progress,Being Prepared,36
+235,Pizza,3,15:25:06,45,1567,Pending,Picked Up,128
+236,Burger,2,14:03:02,20,1576,In Progress,Being Prepared,205
+237,Pizza,1,11:04:17,15,2394,In Progress,Being Prepared,473
+238,Farmhouse Pizza,3,11:12:48,54,2412,In Progress,Being Prepared,146
+239,Garlic Bread,2,15:46:46,16,1274,Completed,Picked Up,291
+240,Burger,2,11:23:52,20,1425,Pending,Picked Up,181
+241,Garlic Bread,1,11:00:13,8,1591,Pending,In Queue,99
+242,Burger,1,16:28:09,10,1194,In Progress,Being Prepared,238
+243,Burger,3,13:39:05,30,1605,Pending,Picked Up,201
+244,Choco Lava Cake,2,11:07:36,12,2032,Pending,Picked Up,73
+245,Chicken Supreme Pizza,3,13:38:19,57,2658,In Progress,Being Prepared,499
+246,Coffee,1,14:14:16,5,1583,Pending,Picked Up,6
+247,Pizza,2,13:41:41,30,2273,Completed,Picked Up,420
+248,Red Pasta,2,11:05:50,28,2050,In Progress,Being Prepared,442
+249,Coffee,1,10:04:41,5,2039,In Progress,Being Prepared,330
+250,Veg Extravaganza Pizza,2,14:29:16,40,1201,Completed,Picked Up,104
