@@ -3,7 +3,7 @@ The Smart Queue Management System (SQMS) is an advanced, real-time queue managem
 Problem Statement
 
 Many businesses and service centers suffer from long, unpredictable queues, leading to customer dissatisfaction, wasted time, and operational inefficiencies. Additionally, the absence of a pre-order system forces customers to wait without any prior scheduling, increasing congestion and frustration.
-Solution
+Solution.
 
 SQMS offers a real-time queue management system that allows customers to:
 
