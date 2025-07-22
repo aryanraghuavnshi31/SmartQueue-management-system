@@ -39,7 +39,7 @@ Applications
 
     Hospitals & Clinics – Appointment-based queueing for patients.
 
-    Banks & Government Offices – Structured service handling.
+    Banks & Government Offices – Structured service handling .
 
     Restaurants & Cafés – Pre-order and table reservation management.
 
